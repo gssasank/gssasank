@@ -1,4 +1,4 @@
-<!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sasank</h2> -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sasank</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working on cracking machines in Hack The Box\
@@ -6,7 +6,7 @@
 👯 &nbsp;I’m looking to collaborate on CTFs\
 ✉️ &nbsp;You can shoot me an email at gssasank@gmail.com\
 
-<img alt="Night Coding" src="" align="right"/>
+<img alt="Night Coding" src="https://github.com/gssasank/gssasank/blob/main/assets/Hand%20Wave.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 <!-- <code><img alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" /></code>
