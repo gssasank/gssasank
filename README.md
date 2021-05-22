@@ -4,7 +4,7 @@
 🔭 &nbsp;I’m currently working on cracking machines in Hack The Box\
 🌱 &nbsp;I’m currently learning AngularJS\
 👯 &nbsp;I’m looking to collaborate on CTFs\
-✉️ &nbsp;You can shoot me an email at gssasank@gmail.com\
+✉️ &nbsp;You can shoot me an email at gssasank@gmail.com
 
 <img alt="Night Coding" src="https://github.com/gssasank/gssasank/blob/main/assets/Night-Coding.gif" align="right"/>
 
