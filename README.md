@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 🔭 &nbsp;I’m currently working on cracking machines on Hack The Box\
-🌱 &nbsp;I’m currently learning Networking\
+🌱 &nbsp;I’m currently learning JavaScript\
 👯 &nbsp;I’m looking to collaborate on CTFs\
 ✉️ &nbsp;You can shoot me an email at gssasank@gmail.com
 
