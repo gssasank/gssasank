@@ -7,7 +7,7 @@
 👯 &nbsp;I’m looking to collaborate on DAOs and CTFs\
 ✉️ &nbsp;You can shoot me an email at gssasank@gmail.com
 
-<img alt="Night Coding" src="https://github.com/gssasank/gssasank/blob/main/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/gssasank/gssasank/blob/main/assets/particles.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
