@@ -2,9 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=gssasank)
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔭 &nbsp;I’m currently working on cracking machines on Hack The Box\
-🌱 &nbsp;I’m currently learning JavaScript\
-👯 &nbsp;I’m looking to collaborate on CTFs\
+🔭 &nbsp;I’m currently working on developing full-stack Web3 apps\
+🌱 &nbsp;I’m currently learning Rust and Solana\
+👯 &nbsp;I’m looking to collaborate on DAOs and CTFs\
 ✉️ &nbsp;You can shoot me an email at gssasank@gmail.com
 
 <img alt="Night Coding" src="https://github.com/gssasank/gssasank/blob/main/assets/Night-Coding.gif" align="right"/>
