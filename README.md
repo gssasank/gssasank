@@ -55,5 +55,5 @@
 <a href="https://instagram.com/sa5ank"><img src="https://img.shields.io/badge/-@sa5ank-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p> 
 
-<img alt="Night Coding" src="https://github.com/gssasank/gssasank/blob/main/assets/particles.gif" align="center"/>
+<!-- <img alt="Night Coding" src="https://github.com/gssasank/gssasank/blob/main/assets/particles.gif" align="center"/> -->
 
