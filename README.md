@@ -38,15 +38,15 @@
 <br />
 <br />
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/gssasank">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gssasank&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gssasank&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gssasank&layout=compact&langs_count=8&theme=cobalt"/> -->
 </a>
 </p>
-
+<!-- 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -54,7 +54,7 @@
 <a href="mailto:gssasank@gmail.com"><img src="https://img.shields.io/badge/-gssasank@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sa5ank"><img src="https://img.shields.io/badge/-@sa5ank-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p> 
-
+ -->
 <!-- <img alt="Night Coding" src="https://github.com/gssasank/gssasank/blob/main/assets/particles.gif" align="center"/> -->
  -->
 
@@ -66,8 +66,7 @@
 
 - 🌱 I’m currently learning **Rust and Solana**
 
-- 📫 How to reach me **gssasank@gmail.com**
-
+- 📫 You can shoot me an email at **gssasank@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gssasank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gssasank" height="30" width="40" /></a>
@@ -79,4 +78,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gssasank&show_icons=true&locale=en&layout=compact" alt="gssasank" /></p>
 
-S
