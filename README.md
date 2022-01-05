@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=gssasank)
 
 ### 👨🏻‍💻 &nbsp;About Me
+🖥️ &nbsp;I'm very interested in GNU/Linux and am an avid distro-hopper\
 🔭 &nbsp;I’m currently working on developing full-stack Web3 apps\
 🌱 &nbsp;I’m currently learning Rust and Solana\
 👯 &nbsp;I’m looking to collaborate on DAOs and CTFs\
@@ -59,6 +60,7 @@
  
 <h1 align="center">Hi 👋, I'm Sasank!</h1>
 <p align="left"> <a href="https://twitter.com/gssasank" target="blank"><img src="https://img.shields.io/twitter/follow/gssasank?logo=twitter&style=for-the-badge" alt="gssasank" /></a> </p>
+- 🖥️ I'm very interested in GNU/Linux and am an avid distro-hopper
 
 - 🔭 I’m currently working on **developing full-stack Web3 apps**
 
