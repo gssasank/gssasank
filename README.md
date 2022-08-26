@@ -1,3 +1,4 @@
+<!--
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sasank</h2> 
 ![](https://komarev.com/ghpvc/?username=gssasank)
 
@@ -81,3 +82,5 @@
 
 <h3 align="left">Github Stats:</h3>
 <img align = "center" height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gssasank&layout=compact&langs_count=8&theme=cobalt"/>
+-->
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/62089940/186792012-caa75b09-93ca-46bb-ae9d-34e3f4a10bb4.png">
